@@ -31,15 +31,12 @@ pip install -r requirements.txt
 
 
 ## How to train
-
-### Subgroup
 * run:
     ```shell=
     python multiLabel/multi.py data
     ```
 ## How to test(inference)
 
-### Subgroup
 * Seen User Topic Prediction task, run:
     ```shell=
     python multiLabel/inference.py \
